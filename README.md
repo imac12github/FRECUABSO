@@ -1,0 +1,2 @@
+# FRECUABSO
+Frecuencia absoluta
